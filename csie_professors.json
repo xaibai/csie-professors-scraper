@@ -1,0 +1,150 @@
+[
+  {
+    "Name": "張文鐘 (Wen-Thong Chang)",
+    "Expertise": "物連網系統、視訊串流、通訊系統、影像處理"
+  },
+  {
+    "Name": "蔡進發 （Jeffrey J.P. Tsai）",
+    "Expertise": "人工智能、生物資料、軟體工程、分散式即時系統"
+  },
+  {
+    "Name": "許聞廉(Wen-Lian Hsu)",
+    "Expertise": "演算法分析、生物資訊、計算語言、自然語言理解、智慧型對話系統"
+  },
+  {
+    "Name": "陳良弼(Arbee L.P. Chen)",
+    "Expertise": "巨量資料分析、資料庫偏愛查詢、行動資訊系統"
+  },
+  {
+    "Name": "黃明祥(Min-Shiang Hwang)",
+    "Expertise": "資訊與網路安全、密碼與藏密學、區塊鏈技術、智慧運算與行動通訊、管理資訊系統"
+  },
+  {
+    "Name": "許慶賢(Ching-Hsien Hsu)",
+    "Expertise": "雲端計算、人工智慧與應用、高性能計算、大數據與串流運算、平行與分散式系統、智慧醫療"
+  },
+  {
+    "Name": "李文熙(Wen-Hsi Lee)",
+    "Expertise": "有機薄膜電晶體、半導體薄膜製程、薄膜太陽能電池、電子陶瓷、射頻陶瓷元件、系統構裝"
+  },
+  {
+    "Name": "陳錫明(Shyi-Ming Chen)",
+    "Expertise": "模糊系統、智慧型系統、模糊決策、智慧型計算、知識庫系統、機器學習、資料探勘、大數據分析、遺傳演算法、粒子群最佳化演算法、類神經網路"
+  },
+  {
+    "Name": "洪西進(Shi-Jinn Horng)",
+    "Expertise": "深度學習與大數據、生物辨識技術、資訊安全、雲端和容錯計算、多媒體應用、醫療應用"
+  },
+  {
+    "Name": "詹景裕(Gene-Eu Jan)",
+    "Expertise": "電腦結構、平行處理、交換網路、超大型積體電路設計"
+  },
+  {
+    "Name": "蔡秀芬(Shiow-Fon Tsay)",
+    "Expertise": "凝態物理理論、計算物理、工程數學"
+  },
+  {
+    "Name": "蕭進松(Chin-Sung Hsiao)",
+    "Expertise": "光電半導體、奈米電漿元件、積體光學、電磁計算"
+  },
+  {
+    "Name": "陳興忠(Hsing-Chung Chen)",
+    "Expertise": "資通訊安全、人工智慧、應用密碼學、智慧物聯網、 區塊鏈技術應用與安全、量子安全供應信賴鏈"
+  },
+  {
+    "Name": "Brij Bhooshan Gupta",
+    "Expertise": "資訊安全、計算機網路、軟體工程"
+  },
+  {
+    "Name": "施能義(Neng-Yih Shih)",
+    "Expertise": "計算處理與應用、無線感測與轉換、智慧控制系統、定位與追縱"
+  },
+  {
+    "Name": "林俊淵(Chun-Yuan Lin)",
+    "Expertise": "平行與分散式處理 (MPI, OpenMP, CUDA)、生物資訊(基因體學、蛋白質體學、系統生物學、Solexa)、平行與分散式演算法、資料探勘與機器學習"
+  },
+  {
+    "Name": "蔡志仁(Zhi-Ren Tsai)",
+    "Expertise": "適應控制、電腦視覺、機器人學、電力電子"
+  },
+  {
+    "Name": "陳兆南(Chao-Nan Chen)",
+    "Expertise": "影像顯示科技、多媒體及3D遊戲設計、VLSI技術"
+  },
+  {
+    "Name": "陳瑞奇(Jui-Chi Chen)",
+    "Expertise": "資通工程(健康照護)、資料探勘與分析、無線網路資源管理、電腦網路"
+  },
+  {
+    "Name": "朱學亭(Hsueh-Ting Chu)",
+    "Expertise": "生物資訊、數位學習、圖型識別、類神經網路、人工智慧"
+  },
+  {
+    "Name": "王經篤(Jing-Doo Wang)",
+    "Expertise": "雲端計算 、文件資訊擷取 、網路資訊擷取 、生物資訊"
+  },
+  {
+    "Name": "葉榮輝(Rong-Hwei Yeh)",
+    "Expertise": "太陽能電池、發光二極體、半導體雷射、非晶矽材料及元件"
+  },
+  {
+    "Name": "柯賢儒 (Hsien-Ju Ko)",
+    "Expertise": "自動控制、訊號處理、電腦網路"
+  },
+  {
+    "Name": "蔡至偉(Jr Wei, Tsai)",
+    "Expertise": "機器學習與深度學習應用、訊號處理與演算法開發、圖資料應用與數據挖掘"
+  },
+  {
+    "Name": "楊偉儒 (Wei-Zu Yang)",
+    "Expertise": "個人通訊服務、網際網路電話、網路效能分析、高速網路、類神經網路"
+  },
+  {
+    "Name": "THI-VAN NGUYEN",
+    "Expertise": "機器學習、深度學習、電腦視覺,、影像處理、生物辨識技術、資料探勘"
+  },
+  {
+    "Name": "DINH-TRUNG VU",
+    "Expertise": "生物辨識技術、電腦視覺、影像處理、深度學習"
+  },
+  {
+    "Name": "涂崇一(Chung-Yi Tu)",
+    "Expertise": "六軸機械手臂軟體設計與應用、人工智慧、影像辨識、數據分析"
+  },
+  {
+    "Name": "吳函諺(Han-Yan Wu)",
+    "Expertise": "資訊隱藏(可逆與不可逆式)、數位浮水印、影像處理"
+  },
+  {
+    "Name": "PANDI DIVYA PORKAIPANDI",
+    "Expertise": "半導體裝置設計開發、半導體功率元件"
+  },
+  {
+    "Name": "關國裕(Kuo-Yu Kuan)",
+    "Expertise": "邏輯設計、程式設計"
+  },
+  {
+    "Name": "Tadao Murata",
+    "Expertise": "Applications of Petri nets to problems related to the design, modeling, analysis, and performance of concurrent systems such as the following: distributed/communication software, network protocols, logic- and rule-based AI systems, manufacturing systems, parallel computing systems, and systems with fuzzy latency."
+  },
+  {
+    "Name": "黃光彩",
+    "Expertise": "電機工程"
+  },
+  {
+    "Name": "林一平 (Jason Yi-Bing Lin)",
+    "Expertise": "個人通信網路、行動計算、系統模擬"
+  },
+  {
+    "Name": "張嘉淵 (Zhang Jiayuan)",
+    "Expertise": "雲端運算、大數據分析、演算法、社群媒體、人工智慧物聯網、人本創新應用"
+  },
+  {
+    "Name": "許健(Gene Sheu)",
+    "Expertise": "電子電路、微電子、產品研發、積體電路"
+  },
+  {
+    "Name": "林詠章 (Lin Yongzhang)",
+    "Expertise": "資訊安全、區塊鏈應用、精準健康、智慧醫療、工控安全"
+  }
+]
